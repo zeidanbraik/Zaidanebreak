@@ -1,11 +1,11 @@
-### Hi there 👋, It is Zeidan Braik
+# Hi there 👋, It is Zeidan Braik
 
 
 - 🔭 I’m currently a master 2 student in Optimization at University Paris-Saclay
 - 🌱 I’m currently learning Web Development
 - ⚡ Fun fact: 
 
-# Hi There
+## Check out my overall contributions
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Zaidanebreak)](https://gZaidanebreakit.io/streak-stats)
 
